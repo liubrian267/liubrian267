@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Brian Liu 👋
 
 <!--
 **liubrian267/liubrian267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,postgres,mongodb,cpp,html,css,sqlite,supabase,docker,svelte,graphql,fastapi,express,postman,linux)](https://skillicons.dev)
